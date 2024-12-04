@@ -1,1 +1,2 @@
 # EPL
+The project is based on scrapping of 20 years of EPL(English Premier Leauge) data in which I have performed dome preprocessing and data clening . The missing values have been removed by using KNN method IMPUTATION  . Then using corelaton matraix and different data visualisation techniques like BAR GRAPH . PIE CHARTS Aand HEAT MAP I have made the project so easy to use that it tells exact prediction upto 92% accuracy.
